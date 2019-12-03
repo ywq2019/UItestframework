@@ -387,11 +387,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.globalparam" />
       <item itemvalue="Python.datainfo" />
+      <item itemvalue="Python.globalparam" />
       <item itemvalue="Python.log" />
-      <item itemvalue="Python.sendmail" />
       <item itemvalue="Python.run" />
+      <item itemvalue="Python.sendmail" />
     </list>
     <recent_temporary>
       <list>
