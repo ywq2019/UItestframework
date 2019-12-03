@@ -1,13 +1,14 @@
 #coding=utf-8
 
 import unittest
-import HTMLTestRunner
 import time
+from public.common import  HTMLTestRunner
 from config import globalparam
-from public.common import sendmail
+
+
 
 def run():
-    test_dir = './testcase'
+    test_dir = './testcase/live'
     suite = unittest.defaultTestLoader.discover(start_dir=test_dir,pattern='test*.py')
 
     now = time.strftime('%Y-%m-%d_%H_%M_%S')
@@ -20,9 +21,10 @@ def run():
         )
         runner.run(suite)
     time.sleep(3)
-    # 发送邮件
-    mail = sendmail.SendMail()
-    mail.send()
+
+    # # 发送邮件
+    # mail = sendmail.SendMail()
+    # mail.send()
 
 if __name__=='__main__':
     run()

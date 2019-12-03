@@ -180,19 +180,22 @@ class PySelenium(object):
                 css, text, time.time() - t1))
             raise
 
-    def clear_type(self, css, text):
+    def clear_type(self, css, text , code):
         """
         Clear and input element.
 
         Usage:
         driver.clear_type("id->kw","selenium")
         """
+        print("###",code)
         t1 = time.time()
         try:
             self.element_wait(css)
             el = self.get_element(css)
             el.clear()
             el.send_keys(text)
+            if code != '':
+                el.send_keys(code)
             self.my_print("{0} Clear and type element: <{1}> content: {2}, Spend {3} seconds".format(success,
                 css, text,time.time() - t1))
         except Exception:
@@ -304,6 +307,7 @@ class PySelenium(object):
         except Exception:
             self.my_print("{0} Unable to Click by text content: {1}, Spend {2} seconds".format(fail, text, time.time() - t1))
             raise
+
 
     def close(self):
         """
@@ -623,6 +627,10 @@ class PySelenium(object):
         driver.origin_driver
         """
         return self.driver
+
+    @classmethod
+    def PySelenium(cls, param):
+        pass
 
 
 if __name__ == '__main__':

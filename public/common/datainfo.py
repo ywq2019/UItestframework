@@ -6,6 +6,12 @@ import xlrd
 from config import globalparam
 
 data_path = globalparam.data_path
+
+
+def tabl(args):
+	pass
+
+
 def get_xls_to_dict(xlsname, sheetname):
 	"""
 	读取excel表结果为dict
