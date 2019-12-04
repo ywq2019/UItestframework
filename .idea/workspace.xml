@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a54329e-4875-47e6-bc82-5304d7ab38df" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/common/HTMLTestRunner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pages/liveIndexPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/live/test_live_orign.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UItestframework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/globalparam.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/globalparam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/basepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/datainfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/datainfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/mytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/mytest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/pyselenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/pyselenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/baiduIndexPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/baiduIndexPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/log/2016-11-08.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/testreport/TestResult2016-11-08_11_17_14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/log/2019-11-29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/log/2019-12-03.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_baidu.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +43,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1QKIVIqhmEMbuptu1prHLELKK76" />
   <component name="ProjectLevelVcsManager">
