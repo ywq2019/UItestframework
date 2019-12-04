@@ -9,3 +9,25 @@
 2019-12-04 17:29:54,189 - root - INFO - SUCCESS    Get the current window screenshot,path: D:\PythonProjects\UItestframework\report\image\input_password-2019-12-04_17_29_53.jpg, Spend 0.41001152992248535 seconds
 2019-12-04 17:30:11,032 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 11.84221625328064 seconds
 2019-12-04 17:30:11,033 - root - INFO - ###############################  End  ###############################
+2019-12-04 17:33:45,771 - root - INFO - ############################### START ###############################
+2019-12-04 17:33:52,060 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 6.2869439125061035 seconds
+2019-12-04 17:33:52,359 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.29784154891967773 seconds
+2019-12-04 17:33:53,074 - root - INFO - SUCCESS    Navigated to http://liveadmin-test.61info.cn/#/login, Spend 0.7150170803070068 seconds
+2019-12-04 17:33:53,075 - root - INFO - into live page
+2019-12-04 17:33:55,184 - root - INFO - SUCCESS    Clear and type element: <name->username> content: ('zhongyanping',), Spend 0.10898303985595703 seconds
+2019-12-04 17:33:55,617 - root - INFO - SUCCESS    Get the current window screenshot,path: D:\PythonProjects\UItestframework\report\image\input_phone_number-2019-12-04_17_33_55.jpg, Spend 0.4320077896118164 seconds
+2019-12-04 17:33:57,716 - root - INFO - SUCCESS    Clear and type element: <name->password> content: ('123456',), Spend 0.09700465202331543 seconds
+2019-12-04 17:33:58,137 - root - INFO - SUCCESS    Get the current window screenshot,path: D:\PythonProjects\UItestframework\report\image\input_password-2019-12-04_17_33_57.jpg, Spend 0.4190065860748291 seconds
+2019-12-04 17:34:13,663 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 10.523163318634033 seconds
+2019-12-04 17:34:13,663 - root - INFO - ###############################  End  ###############################
+2019-12-04 17:34:31,830 - root - INFO - ############################### START ###############################
+2019-12-04 17:34:38,112 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 6.281350374221802 seconds
+2019-12-04 17:34:38,388 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2750077247619629 seconds
+2019-12-04 17:34:39,013 - root - INFO - SUCCESS    Navigated to http://liveadmin-test.61info.cn/#/login, Spend 0.6250154972076416 seconds
+2019-12-04 17:34:39,014 - root - INFO - into live page
+2019-12-04 17:34:41,150 - root - INFO - SUCCESS    Clear and type element: <name->username> content: ('zhongyanping',), Spend 0.1350235939025879 seconds
+2019-12-04 17:34:41,625 - root - INFO - SUCCESS    Get the current window screenshot,path: D:\PythonProjects\UItestframework\report\image\input_phone_number-2019-12-04_17_34_41.jpg, Spend 0.473024845123291 seconds
+2019-12-04 17:34:43,728 - root - INFO - SUCCESS    Clear and type element: <name->password> content: ('123456',), Spend 0.10097861289978027 seconds
+2019-12-04 17:34:44,183 - root - INFO - SUCCESS    Get the current window screenshot,path: D:\PythonProjects\UItestframework\report\image\input_password-2019-12-04_17_34_43.jpg, Spend 0.4540083408355713 seconds
+2019-12-04 17:35:00,488 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 11.302574396133423 seconds
+2019-12-04 17:35:00,488 - root - INFO - ###############################  End  ###############################

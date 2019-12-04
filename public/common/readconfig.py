@@ -27,10 +27,10 @@ class ReadConfig:
     def getValue(self, env, name):
         """
         [projectConfig]
-        project_path=E:/Python-Project/UItestframework
+        project_path=D:/Python-Project/UItestframework
         :param env:[projectConfig]
         :param name:project_path
-        :return:E:/Python-Project/UItestframework
+        :return:D:/Python-Project/UItestframework
         """
         return self.cf.get(env,name)
 
