@@ -8,7 +8,7 @@ from config import globalparam
 
 
 def run():
-    test_dir = './testcase'
+    test_dir = './testcase/live'
     suite = unittest.defaultTestLoader.discover(start_dir=test_dir,pattern='test*.py')
 
     now = time.strftime('%Y-%m-%d_%H_%M_%S')
